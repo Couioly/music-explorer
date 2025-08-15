@@ -27,8 +27,8 @@
 ### 环境准备
 
 ```bash
-git clone https://github.com/Couioly/music-metadata-explorer.git
-cd music-metadata-explorer
+git clone https://github.com/Couioly/music-explorer.git
+cd music-explorer
 pip install -r requirements.txt
 ```
 
